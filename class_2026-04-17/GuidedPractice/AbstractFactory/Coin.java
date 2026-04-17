@@ -1,0 +1,3 @@
+interface Coin {
+    void show();
+}

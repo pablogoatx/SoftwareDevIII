@@ -1,0 +1,3 @@
+interface LuckyBlock {
+    void hit();
+}
